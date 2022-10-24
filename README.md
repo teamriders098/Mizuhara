@@ -8,7 +8,8 @@
 </p>
 
 <div align="center">
-<a href="https://telegra.ph/file/20c40af405f264b061f75.jpg"><img src="https://telegra.ph/file/20c40af405f264b061f75.jpg" alt="mizuhara" border="0"></a>
+<a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/JzRJS85/2258810.jpg" alt="2258810" border="0" /></a>
+
 
 # **MIZUHARA : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
