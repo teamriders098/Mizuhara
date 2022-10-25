@@ -1,3 +1,4 @@
+
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Supermercado+One&size=30&duration=4997&color=B8212C&background=FF673200&center=true&vCenter=true&lines=HI+I+AM+MIZUHARA;A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
@@ -7,8 +8,7 @@
 </p>
 
 <div align="center">
-<a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/JzRJS85/2258810.jpg" alt="2258810" border="0" /></a>
-
+<a href="https://telegra.ph/file/20c40af405f264b061f75.jpg"><img src="https://telegra.ph/file/20c40af405f264b061f75.jpg" alt="mizuhara" border="0"></a>
 
 # **MIZUHARA : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
@@ -49,7 +49,6 @@
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://ffmpeg.org/download.html)
-* [ImageMagick](https://imagemagick.org/script/download.php)
 
 ## HEROKU
 
